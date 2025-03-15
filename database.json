@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "name": "Іван",
+        "midname": "Михайлович",
+        "lastname": "Смирнов",
+        "age": 30,
+        "department": "ІТ",
+        "position": "Програміст",
+        "phone_number": "+380987654321",
+        "salary": 5000
+    },
+    {
+        "id": 2,
+        "name": "Оксана",
+        "midname": "Василівна",
+        "lastname": "Петренко",
+        "age": 28,
+        "department": "HR",
+        "position": "Менеджер",
+        "phone_number": "+380931234567",
+        "salary": 4500
+    },
+    {
+        "id": 3,
+        "name": "Андрій",
+        "midname": "Олегович",
+        "lastname": "Коваленко",
+        "age": 35,
+        "department": "Фінанси",
+        "position": "Бухгалтер",
+        "phone_number": "+380673214567",
+        "salary": 4800
+    },
+    {
+        "id": 4,
+        "name": "Марія",
+        "midname": "Володимирівна",
+        "lastname": "Шевченко",
+        "age": 26,
+        "department": "Маркетинг",
+        "position": "Маркетолог",
+        "phone_number": "+380991112233",
+        "salary": 4300
+    },
+    {
+        "id": 5,
+        "name": "Павло",
+        "midname": "Сергійович",
+        "lastname": "Бондаренко",
+        "age": 40,
+        "department": "ІТ",
+        "position": "Системний адміністратор",
+        "phone_number": "+380662345678",
+        "salary": 5500
+    },
+    {
+        "id": 6,
+        "name": "Наталія",
+        "midname": "Олександрівна",
+        "lastname": "Ткаченко",
+        "age": 33,
+        "department": "Продажі",
+        "position": "Менеджер з продажів",
+        "phone_number": "+380503456789",
+        "salary": 4700
+    },
+    {
+        "id": 7,
+        "name": "Данило",
+        "midname": "Ігорович",
+        "lastname": "Мороз",
+        "age": 29,
+        "department": "ІТ",
+        "position": "Фронтенд-розробник",
+        "phone_number": "+380631234567",
+        "salary": 5100
+    },
+    {
+        "id": 8,
+        "name": "Аліна",
+        "midname": "Петрівна",
+        "lastname": "Гриценко",
+        "age": 31,
+        "department": "HR",
+        "position": "Рекрутер",
+        "phone_number": "+380673456789",
+        "salary": 4400
+    },
+    {
+        "id": 9,
+        "name": "Володимир",
+        "midname": "Вікторович",
+        "lastname": "Лисенко",
+        "age": 38,
+        "department": "Фінанси",
+        "position": "Фінансовий аналітик",
+        "phone_number": "+380991234567",
+        "salary": 4900
+    },
+    {
+        "id": 10,
+        "name": "Олена",
+        "midname": "Анатоліївна",
+        "lastname": "Кравченко",
+        "age": 27,
+        "department": "Маркетинг",
+        "position": "Контент-менеджер",
+        "phone_number": "+380932345678",
+        "salary": 4200
+    }
+]
