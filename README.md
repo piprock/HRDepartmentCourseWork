@@ -13,5 +13,3 @@ When writing code, it was allowed to use only the functions learned during the t
 - Department Information
 - Employees by Department
 - Table Report
-
-## The program handles all possible errors
